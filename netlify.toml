@@ -1,3 +1,5 @@
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
 [context.storybook]
   publish = "storybook-static/"
   command = "npm run build-storybook"
